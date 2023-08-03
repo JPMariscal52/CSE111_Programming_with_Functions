@@ -1,3 +1,6 @@
 Introduction to programming with functions
 
 This is your third certificate course
+
+You need to get a A to aprove this course
+
