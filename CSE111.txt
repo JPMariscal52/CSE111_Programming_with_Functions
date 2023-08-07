@@ -10,3 +10,5 @@ This is one step more to finish my certificate
 
 Now I have created a new branch in my repository named
 prototipo
+
+This is an example of using git pull
